@@ -47,7 +47,8 @@ t000cYousefi('sendmessage', [
 
  
  
-
+  از هرجای تلگرام فایل بدی لینک بهت میدم! @$t000c
+  هرفرمت فایل زیر 20 مگابایت",
  
 'reply_markup'=>json_encode([
 'keyboard'=>[
