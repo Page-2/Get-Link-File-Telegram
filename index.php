@@ -51,7 +51,8 @@ t000cYousefi('sendmessage', [
  
 'reply_markup'=>json_encode([
 'keyboard'=>[
-[['text'=>"💁🏻 کمک"],['text'=>"📠 پیام به مدیریت"]],
+[['text'=>"کانال سورس"],['text'=>"💁🏻 کمک"]],
+[['text'=>"📠 پیام به مدیریت"],['text'=>"🌟 نظر دادن به ربات"]],],
 
 'resize_keyboard'=>true])]);}
 elseif(isset($message->photo)){
