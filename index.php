@@ -12,7 +12,7 @@ ob_start();
 error_reporting(0);
 $myoj = '1414751064:AAFOxhN_twbNST9Nt9TfZHRNp71nmjaxeuE'; //توکن ربات
 $t000c = "542281366"; //ایدی پشتیبان
-$botid = "D888bot"; //ایدی ربات
+$botid = "getlinkfile"; //ایدی ربات
 define('API_KEY',$myoj);
 function t000cYousefi($method,$datas=[]){$url = "https://api.telegram.org/bot".API_KEY."/".$method;$ch = curl_init();
 curl_setopt($ch,CURLOPT_URL,$url);curl_setopt($ch,CURLOPT_RETURNTRANSFER,true);
